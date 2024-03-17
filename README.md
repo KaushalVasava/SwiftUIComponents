@@ -1,5 +1,15 @@
 It is a project to showcase SwiftUI Components and Navigation in iOS using SwiftUI.
 
+# Tech Stack
+- Swift
+- SwiftUI
+
+# Screenshots
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-17 at 09 38 12](https://github.com/KaushalVasava/SwiftUIComponents/assets/49050597/28065fe0-fe69-4f68-bb52-4c06d98147a6)
+
+# Video
+https://github.com/KaushalVasava/SwiftUIComponents/assets/49050597/cc4898d7-2588-4a09-954e-065024f25f76
+
 # UI Components
 
 - Text:
@@ -116,12 +126,7 @@ It is a project to showcase SwiftUI Components and Navigation in iOS using Swift
 
   - SwiftUI: Offers access to iOS-specific APIs like UIKit interoperability.
   - Jetpack Compose: Offers access to Android-specific APIs and Jetpack libraries.
- 
 
-# Tech Stack
-- Kotlin
-- ML Kit
-- Jetpack Compose
 
 # Docs
 https://developer.apple.com/tutorials/swiftui
